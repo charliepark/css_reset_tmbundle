@@ -1,13 +1,8 @@
 # TextMate bundle for Eric Meyers's CSS Reset
 
-To install, you'll need both TextMate and Git installed on your machine. Then do the following, from Terminal:
+To install, just download and unpack the Zip file found at http://github.com/downloads/charliepark/css_reset_tmbundle/CSS%20Reset%20for%20TextMate.zip. Inside, you'll find four TextMate snippets. Just dounle-click on each one of them, and they should be added automatically to your TextMate Bundles list.
 
-    cd ~/Library/Application\ Support/TextMate/Bundles
-    git clone git://github.com/charliepark/css_reset_tmbundle.git "CSS Reset.tmbundle"
-    osascript -e 'tell app "TextMate" to reload bundles'
-
-
-The bundle includes four reset snippets.
+Below are the four snippets and their tab-autocomplete shortcut codes.
 
 
 ## CSS Reset - Eric Meyer
