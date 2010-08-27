@@ -1,6 +1,6 @@
 # TextMate bundle for Eric Meyers's CSS Reset
 
-To install, just download and unpack the Zip file found at [http://github.com/downloads/charliepark/css_reset_tmbundle/CSS%20Reset%20for%20TextMate.zip](http://github.com/downloads/charliepark/css_reset_tmbundle/CSS%20Reset%20for%20TextMate.zip). Inside, you'll find four TextMate snippets. Just double-click on each one of them, and they should be added automatically to your TextMate Bundles list.
+To install, just download and unpack the Zip file found at [http://github.com/downloads/charliepark/css_reset_tmbundle/CSS%20Reset%20for%20TextMate.zip](http://github.com/downloads/charliepark/css_reset_tmbundle/CSS%20Reset%20for%20TextMate.zip). Inside, you'll find four TextMate snippets. Just double-click on each one of them, and they should be added automatically to your TextMate Bundles list. You'll probably need to "Reload Bundles" (Bundles > Bundle Editor > Reload Bundles) for them to show up in your Bundles list.
 
 Below are the four snippets and their tab-autocomplete shortcut codes.
 
